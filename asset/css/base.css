@@ -1,0 +1,9 @@
+:root{
+    --text-color-gray-2: #353945;
+    --text-color-gray-3: #777E90;
+    --text-color-orange: #F5B318;
+    --text-color-primary: #3B71FE;
+}
+a{
+    text-decoration: none;
+}
